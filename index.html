@@ -38,7 +38,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -58,7 +58,7 @@ sitemap:
                     và trở thành một developer là một điều chưa bao giờ mình từng nghĩ đến <br />
                     Và thực sự thì nó đã trở thành điều tuyệt vời nhất mà mình từng có!</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/demo.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/demo.jpg" }}" alt="" /></a>
                 <p>Tự cảm thấy mình đúng là một developer lởm nhất hệ mặt trời, nên đành rằng viết một cái blog kể về cuộc sống của một thằng dev lởm, 
 									và làm thế nào để nâng cao khả năng của mình, hay những cái nhìn trần trụi cùng nhưng lời tư vấn hướng nghiệp cho các bạn trẻ đang phân vân để chọn ngành nghề </p>
                 <p>Đôi khi là những suy nghĩ, quan điểm về những chuyện trên zời dưới biển của đời coder, hay là một vấn đề mình gặp phải trong dự án, 
@@ -74,12 +74,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ post.url}}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
                   {% if mod3 == 0 %}
