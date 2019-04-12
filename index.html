@@ -60,16 +60,12 @@ sitemap:
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/demo.jpg" }}" alt="" /></a>
                 <p>Tự cảm thấy mình đúng là một developer lởm nhất hệ mặt trời, nên đành rằng viết một cái blog kể về cuộc sống của một thằng dev lởm, 
-									và làm thế nào để nâng cao khả năng của mình, hay những cái nhìn trần trụi cùng nhưng lời tư vấn hướng nghiệp cho các bạn trẻ đang phân vân để chọn ngành nghề </p>
-                <p>Đôi khi là những suy nghĩ, quan điểm về những chuyện trên zời dưới biển của đời coder, hay là một vấn đề mình gặp phải trong dự án, 
-									ngồi lần mò tỉm hiểu rồi note lại vào đây, để một ngày ngó lại lúc quên, hay biết đâu lại giúp đc ai đó cũng "ngáo" như mình
-								</p>
-
+									và làm thế nào để nâng cao khả năng của mình, hay những cái nhìn trần trụi cùng nhưng lời tư vấn hướng nghiệp cho các bạn trẻ đang phân vân để chọn ngành nghề </p>								
 							</article>
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
+                {% for post in site.posts limit:4 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
   									<header>
@@ -82,18 +78,10 @@ sitemap:
   										<li><a href="{{ post.url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
-  								</article>
-                  {% endif %}
                 {% endfor %}
 
 							</section>
-
+							<small> <i> * Trên đây mình chỉ giới hạn 4 bài viết mới nhất, các bạn có hứng thú xem thêm những bài cũ hơn thì vào phần Blog nhé</i></small>
 					</div>
 
 				<!-- Footer -->
