@@ -25,15 +25,28 @@
             {% include nav.html %}
 
 					</nav>
-
 				<!-- Main -->
-				<div id="main">
-
+				<div id="main">					
+						<header class="major">
+								<h2><a href="#">TODAY I LEARNED</a></h2>
+								<p>Tản mạn mỗi ngày một câu chuyện 1 vấn đề vụn vặn gặp phải khi code, mà mình đã mày mò được trong lúc code dự án hay giải quyết các vấn đề của bản thân 
+								</p>
+							</header>
 					<!-- Post -->
 					<section class="post">
-						<p>{{content}}</p>
+						{% for page in site.categories.tils %}
+							<div class="app">
+								<main>
+									<small class="date">{{ page.date | date_to_string }}</small>
+									<h3>{{page.title}}</h3>
+									<p>{{page.content}}</p>
+								</main>
+							</div>
+							<br><br><br><br>
+					{% endfor %}
+							
 					</section>
-					</div>
+				</div>
 
 				<!-- Footer -->
         {% include foot.html %}

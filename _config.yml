@@ -22,16 +22,25 @@ email:              tuanhv258@gmail.com # change this to your email to receive f
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
+# slapform_thankyou_page: /thank-you
 
 defaults:
-- scope:
+- 
+  scope:
     path: ''
     type: posts
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Jack Ho
+-
+  scope:
+    path: 'today_i_learned'
+    type: pages
+  values:
+    permalink: '/today_i_learned/:title'
+    layout: page
+    author: Jack Ho
 
 # Jekyll
 permalink:          /blog/:title/
