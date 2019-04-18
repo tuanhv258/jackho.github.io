@@ -3,7 +3,7 @@ layout: post
 title:  "Bệnh 'ảo tưởng sức mạnh' của các bạn trẻ"
 date:   2019-04-12
 excerpt: "Đôi chút cảm nhận về các bạn sinh viên, hay những bạn ra trường khi đi xin việc và những tư tưởng mà các bạn đã chia sẻ với mình ^^"
-image: "/images/aotuong.jpg"
+image: "/images/aotuong.webp"
 ---
 
 ### I. Lời nói đầu
