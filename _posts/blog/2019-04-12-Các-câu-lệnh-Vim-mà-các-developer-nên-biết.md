@@ -3,7 +3,7 @@ layout: post
 title:  "Các câu lệnh Vim mà các developer nên biết"
 date:   2019-04-12
 excerpt: "Có rất nhiều coding editor khác nhau, nhưng mình xin giới thiệu một coding editor 'khó dùng' nhất nhưng một khi đã thành thục với những câu lệnh cơ bản thì tốc độ code của bạn sẽ được tăng lên đáng kể"
-image: "/images/vim-commands.png"
+image: "/images/vim-commands.webp"
 ---
 
 Việc sử dụng Vim đối với người mới sử dụng sẽ khá phức tạp, và làm ảnh hưởng đến tốc độ sử dụng thay vì sử dụng các Text editor khác, tuy nhiên nếu nắm rõ các command dưới đây của Vim thì việc sử dụng của bạn sẽ được tăng lên nhanh chóng cho đến khi bạn thuần thục. Việc sử dụng Vim thuần thục sẽ khiến bạn hạn chế đến mức thấp nhất việc sử dụng chuột và di chuyển tay quanh bàn phím và chuột dẫn đến thời gian lập trình và thao tác sẽ nhanh hơn rất nhiều. Hy vọng bài viết cơ bản dưới đây sẽ giúp ích cho các bạn.
