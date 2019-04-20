@@ -4,6 +4,7 @@ title:  "Amazon Web Services for Essential - IAM and VPC"
 date:   2019-04-12
 excerpt: "Tìm hiểu về các component trong AWS - IAM và VPC"
 image: "/images/iam_vpc.png"
+categories: "blog"
 ---
 
 ## Lời nói đầu

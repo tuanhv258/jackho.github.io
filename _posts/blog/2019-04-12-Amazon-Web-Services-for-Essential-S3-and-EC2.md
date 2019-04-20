@@ -4,6 +4,7 @@ title:  "Amazon Web Services for Essential - S3 and EC2"
 date:   2019-04-12
 excerpt: "Tìm hiểu về các component trong AWS - S3 và EC2"
 image: "/images/s3_ec2.webp"
+categories: "blog"
 ---
 
 Chào các bạn, như bài lần trước mình có giới thiệu về 2 thành phần ban đầu trong AWS đó là IAM và VPC. Và trong bài viết này mình xin giới thiệu thêm cho các bạn về các thành phần sâu bên trong 1 VPC và là một trong những thành phần quan trọng nhất trong AWS đó là S3 và EC2. 

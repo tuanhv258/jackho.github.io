@@ -4,6 +4,7 @@ title:  "Những suy nghĩ sai lầm của các bạn mới ra trường khi đi
 date:   2019-04-12
 excerpt: "Những sai lầm của các bạn trẻ khi đi phỏng vấn hay những suy nghĩ sai lầm sau khi ra trường"
 image: "/images/mistake.webp"
+categories: "blog"
 ---
 
 ### Lời mở đầu

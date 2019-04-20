@@ -4,6 +4,7 @@ title:  "Terminal bớt tẻ nhạt và dễ sử dụng với Terminator và Zs
 date:   2019-04-12
 excerpt: "Hãy thay đổi cái giao diện đen xì của cái terminal tẻ nhạt và tăng hiệu suất sử dụng nó hơn nữa ^^"
 image: "/images/terminal.webp"
+categories: "blog"
 ---
 
 Từ hồi bước vào thế giới của Rails là gần như mình không thể dùng Windows cho việc develop Rails app được nữa. Và điều đầu tiên mọi người gặp phải khi làm việc với Ubuntu đó là khi làm việc với Terminal và các câu lệnh shell. Thật sự ấn tượng ban đầu của mình thì khó hiểu một cách kinh khủng và cảm giác cực kì khó control, làm việc cảm giác chậm hơn nhiều khi phải gõ và xử lý nhiều. Ngoài ra nhìn vào cái màn hình đen xì của cái terminal thấy thật tẻ nhạt. Nhưng khi sử dụng thì càng ngày mình càng thấy rõ được sự hiệu quả của nó và tại sao khi rất nhiều developer chọn sử dụng Ubuntu hay các sản phẩm open source thay vì sử dụng Microsoft

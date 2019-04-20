@@ -4,6 +4,7 @@ title:  "Hướng nghiệp trong ngành công nghệ thông tin"
 date:   2019-04-12
 excerpt: "Những lời khuyên chân thành cho các bạn trẻ đang chuẩn bị lựa chọn ngành nghề hay những bạn chuẩn bị ra trường`"
 image: "/images/huongnghiep.webp"
+categories: "blog"
 ---
 
 > Dưới đây là một bài viết mang tính cá nhân của mình về việc hướng nghiệp nói chung và hướng nghiệp về ngành công nghệ thông tin nói riêng. Do vậy có nhiều điều mang tính chủ quan, bạn đọc nào có ý kiến khác hay ý kiến xây dựng thì hãy comment xuống dưới để chúng ta có một bài viết thật sự ý nghĩa cho các bạn trẻ, đang tìm định hướng cho riêng mình
