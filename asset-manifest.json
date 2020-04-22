@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-blog-github/static/css/main.f578dd71.chunk.css",
+    "main.js": "/react-blog-github/static/js/main.2aaeab3a.chunk.js",
+    "main.js.map": "/react-blog-github/static/js/main.2aaeab3a.chunk.js.map",
+    "runtime-main.js": "/react-blog-github/static/js/runtime-main.442d08e4.js",
+    "runtime-main.js.map": "/react-blog-github/static/js/runtime-main.442d08e4.js.map",
+    "static/js/2.8cba2910.chunk.js": "/react-blog-github/static/js/2.8cba2910.chunk.js",
+    "static/js/2.8cba2910.chunk.js.map": "/react-blog-github/static/js/2.8cba2910.chunk.js.map",
+    "index.html": "/react-blog-github/index.html",
+    "precache-manifest.d97641fac84fda0f253ed9b75776ceae.js": "/react-blog-github/precache-manifest.d97641fac84fda0f253ed9b75776ceae.js",
+    "service-worker.js": "/react-blog-github/service-worker.js",
+    "static/css/main.f578dd71.chunk.css.map": "/react-blog-github/static/css/main.f578dd71.chunk.css.map",
+    "static/js/2.8cba2910.chunk.js.LICENSE": "/react-blog-github/static/js/2.8cba2910.chunk.js.LICENSE",
+    "static/media/loader.svg": "/react-blog-github/static/media/loader.65f8709d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442d08e4.js",
+    "static/js/2.8cba2910.chunk.js",
+    "static/css/main.f578dd71.chunk.css",
+    "static/js/main.2aaeab3a.chunk.js"
+  ]
+}
